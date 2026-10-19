@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Sticker_Tile_Single.stl",
+    "dimensions_mm": [
+      38.0,
+      26.0,
+      3.4
+    ],
+    "closed_edges": true,
+    "components": 1,
+    "volume_mm3": 3252.74
+  },
+  {
+    "file": "Board_180x240.stl",
+    "dimensions_mm": [
+      180.0,
+      240.0,
+      5.6
+    ],
+    "closed_edges": true,
+    "components": 1,
+    "volume_mm3": 196662.51
+  },
+  {
+    "file": "Fit_Test.stl",
+    "dimensions_mm": [
+      91.0,
+      32.0,
+      5.0
+    ],
+    "closed_edges": true,
+    "components": 2,
+    "volume_mm3": 9353.82
+  },
+  {
+    "file": "Sticker_Tiles_16.stl",
+    "dimensions_mm": [
+      167.0,
+      119.0,
+      3.4
+    ],
+    "closed_edges": true,
+    "components": 16,
+    "volume_mm3": 52043.87
+  },
+  {
+    "file": "Parking_Rack_16.stl",
+    "dimensions_mm": [
+      164.0,
+      40.0,
+      12.0
+    ],
+    "closed_edges": true,
+    "components": 1,
+    "volume_mm3": 54737.15
+  },
+  {
+    "file": "Day_Tiles_7.stl",
+    "dimensions_mm": [
+      100.0,
+      184.0,
+      3.4
+    ],
+    "closed_edges": true,
+    "components": 7,
+    "volume_mm3": 51083.04
+  }
+]
